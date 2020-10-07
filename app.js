@@ -7,7 +7,8 @@ Si la nota se enceuntra entre 80 a 89 = B.
 Si la nota se cncuentra entre 70 a 79 = C.
 Si la nota se encuentra entre 60 a 69 = D. 
 Si la nota es inferior a 60 = F. 
-si dsal s 
+si dsal s
+si el rena me come asd  
 */
 
 let nota = 70; 
