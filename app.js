@@ -9,6 +9,7 @@ Si la nota se encuentra entre 60 a 69 = D.
 Si la nota es inferior a 60 = F. 
 si dsal s
 si el rena me come asd  
+no me acuerdo nada 
 */
 
 let nota = 70; 
